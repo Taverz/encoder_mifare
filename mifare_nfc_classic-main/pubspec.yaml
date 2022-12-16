@@ -1,0 +1,24 @@
+name: mifare_nfc_classic
+description: A Flutter plugin for reading and writing Mifare Classic tags (Android Only).
+version: 0.4.3
+# homepage: https://github.com/MaldonadoAndres/mifare_nfc_classic
+
+environment:
+  sdk: ">=2.18.2 <3.0.0"
+  # flutter: ">=1.20.0 <2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # logger: ^0.9.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.example.mifare_nfc_classic
+        pluginClass: MifareNfcClassicPlugin

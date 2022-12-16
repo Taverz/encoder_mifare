@@ -1,0 +1,2 @@
+/Users/boriskulagin/Downloads/mifare_nfc_classic-main/android/src/main/kotlin/com/example/mifare_nfc_classic/Utils.kt
+/Users/boriskulagin/Downloads/mifare_nfc_classic-main/android/src/main/kotlin/com/example/mifare_nfc_classic/MifareNfcClassicPlugin.kt
